@@ -1,2 +1,2 @@
 # Bike Share Project
- Predict the net rate of bike renting for different stations
+BB BikeShare is a bike share service provider where users can take and return bikes at any of the 70 stations on their network. The company wants to leverage their data to better understand and, hopefully, optimize their operations. They are intereted in exploring the potential of statistical and/or machine learning models to predict the numbers of bikes taken and returned to each station.
